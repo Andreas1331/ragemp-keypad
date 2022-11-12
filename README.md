@@ -12,6 +12,9 @@
     This allows you to create keypads and display them to the player at any given time.
     <br />
     <a href="https://github.com/Andreas1331/ragemp-keypad"><strong>Explore the code</strong></a>
+    <br />
+    <br />
+    <p><i>Disclaimer: This was originally developed in 2019ish, so it might not work</i></p>
   </p>
 </div>
 
