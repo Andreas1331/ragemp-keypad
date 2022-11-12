@@ -36,7 +36,7 @@
 
 Originally created around 2019, so it might be broken with newer versions of RageMP, though I believe I fixed this at some point. 
 
-The system allows you to set up a keypad server-side and hook an action to the Confirm button in the keypad. The action is invoked server-side and as argument you get the value which the user put in the keypad client-side. You can set the title, subtitle and even control of the input in the field will be asterisks for cases where the player would be typing a pin etc.
+The system allows you to set up a keypad server-side and hook an action to the Confirm button in the keypad. The action is invoked server-side and as argument you get the value which the user put in the keypad client-side. You can set the title, subtitle and even control if the input in the field will be asterisks for cases where the player would be typing a pin etc.
 
 The entire keypad requires no CEF at all, and no web related dependencies. Instead the whole thing is defined and rendered using native GTA:V UI elements.
 
